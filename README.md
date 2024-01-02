@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oussama
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on a full stack project
 - 📫 idsaidgoldman@gmail.com
 
